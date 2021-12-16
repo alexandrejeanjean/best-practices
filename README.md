@@ -2,7 +2,7 @@
 
 ## Getting started
 
-> `git clone git@gitlab.ecedi.fr:simplonprod/<project-folder>/<project-name>.git` > `cd <project-folder>` > `npm install / yarn install` > `npm run start / yarn run start`
+> `git clone git@gitlab.<project-name>/<project-folder>/<project-name>.git` > `cd <project-folder>` > `npm install / yarn install` > `npm run start / yarn run start`
 
 ## Running Tests
 
