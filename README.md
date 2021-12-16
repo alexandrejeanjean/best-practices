@@ -23,6 +23,9 @@
 ## Technical stack
 
 - React
+- Typescript
+- Jest / Enzyme
+- Cypress
 
 # File structure
 
