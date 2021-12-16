@@ -578,24 +578,6 @@ const _onClickHandler = () => {
 }
 ```
 
-### Underscore in Method Name
-
-Prefer this
-
-```
-const onClickHandler = () => {
-  // do stuff
-}
-```
-
-rather than that
-
-```
-const _onClickHandler = () => {
-  // do stuff
-}
-```
-
 Source : https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb
 
 Based on AirBnB Guidelines - https://github.com/airbnb/javascript/tree/master/react
