@@ -1,4 +1,4 @@
-# My personal react rules
+# React rules memo
 
 ## Getting started
 
